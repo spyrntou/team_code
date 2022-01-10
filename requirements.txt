@@ -1,0 +1,4 @@
+Twisted~=21.7.0
+Scrapy~=2.5.1
+requests~=2.27.1
+lxml~=4.7.1
